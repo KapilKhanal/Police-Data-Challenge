@@ -3,6 +3,8 @@ Codes for Police data Challenge 2017
 
 https://thisisstatistics.org/police-data-challenge-congratulations-to-our-winners/
 
+![](police data challenge.jpg)
+
 
 Police Data Challenge: Congratulations to our Winners!
 December 6, 2017
